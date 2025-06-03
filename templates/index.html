@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Descargador de Video</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg-color: #111827;
+      --text-color: #f9fafb;
+      --muted-color: #9ca3af;
+      --accent-color: #8b5cf6;
+      --accent-hover: #7c3aed;
+      --radius: 12px;
+    }
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Inter', sans-serif;
+      background-color: var(--bg-color);
+      color: var(--text-color);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+    }
+    h1 {
+      font-size: 2.5rem;
+      font-weight: 700;
+      text-align: center;
+      margin-bottom: 0.5rem;
+    }
+    p {
+      color: var(--muted-color);
+      margin-bottom: 2rem;
+    }
+    .form-container {
+      display: flex;
+      flex-direction: column;
+      width: 90%;
+      max-width: 700px;
+      background-color: #1f2937;
+      padding: 2rem;
+      border-radius: var(--radius);
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+    }
+    input[type="text"] {
+      padding: 1rem;
+      font-size: 1rem;
+      border: none;
+      border-radius: var(--radius);
+      background-color: #111827;
+      color: var(--text-color);
+      margin-bottom: 1rem;
+    }
+    .controls {
+      display: flex;
+      gap: 1rem;
+      flex-wrap: wrap;
+    }
+    select {
+      padding: 0.75rem 1rem;
+      border-radius: var(--radius);
+      border: none;
+      font-size: 1rem;
+      background-color: #1f2937;
+      color: var(--text-color);
+      flex: 1;
+    }
+    button {
+      background-color: var(--accent-color);
+      color: white;
+      border: none;
+      padding: 0.75rem 1.5rem;
+      font-size: 1rem;
+      font-weight: 600;
+      border-radius: var(--radius);
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+    button:hover {
+      background-color: var(--accent-hover);
+    }
+    @media (max-width: 600px) {
+      .controls {
+        flex-direction: column;
+      }
+    }
+  </style>
+</head>
+<body>
+  <h1>Descargador de video de YouTube</h1>
+  <p>Descargue videos de YouTube de manera rápida y fácil.</p>
+  <form method="POST" class="form-container">
+    <input type="text" name="url" placeholder="Pega tu URL aquí..." required />
+    <div class="controls">
+      <select name="formato">
+        <option value="mp4">MP4 (720p)</option>
+        <option value="mp3">MP3</option>
+        <option value="4k">MP4 (4K)</option>
+        <option value="wav">WAV</option>
+      </select>
+      <button type="submit">⬇️ Descargar</button>
+    </div>
+  </form>
+</body>
+</html>
