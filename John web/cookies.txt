@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.hsforms.net	TRUE	/	FALSE	1999999999	__cf_bm	UsBVtzK6Qp4B8PjcWJ_N17b8_a.Y1kXs5NWE8u1_XlA-1758655024-1.0.1.1-403GGBWU0VJufhrBqd8d_eZZINVNsHqqQYxQax619BtqqtWp_aKBI8Fe3OuedcX42UECiIrYtBmuTEUnmZ.tsQZmfaa5_5rBWDuGTwHgFsA
+.hs-scripts.com	TRUE	/	FALSE	1999999999	__cf_bm	sPOHq.fcFLSDoQ6vk8ddoy3uzQnQFER8NSlnEHS5DOo-1758655180-1.0.1.1-Fnp73lOh0w.CsJe8bgO5wmGLnDfzvxoMDLLxYwKSz6yqAgaDvReM51.nFDXpRJ10CyyPzWksz2BFYGdhAKpYhorYj0X9Vi5BURo3ktd8myU
+.www.rethinkbehavioralhealth.com	TRUE	/	FALSE	1999999999	__cf_bm	WD.RvW0tHhppC4GEaAF7Z8MTpt56mo9xyhDDdcOBgY4-1758655625-1.0.1.1-e6k5..ckSxRbu4IAcVgSxuke5wXpmiS7wTz32j14mq2qKkIZ7ACRLWoq.cqzSjpjT_7h.4mMB9go5iftSymEa.ZvM25p.2ukZcuMjb8OlQU
+www.rethinkbehavioralhealth.com	TRUE	/	FALSE	1999999999	SameSite	None
+
