@@ -1,0 +1,61 @@
+.elementor-22130 .elementor-element.elementor-element-f29589a .elementor-blockquote__content{font-family:"Open Sans", Sans-serif;font-size:1.4rem;font-weight:600;text-transform:none;font-style:italic;text-decoration:none;line-height:1.6em;margin-top:0px;}.elementor-22130 .elementor-element.elementor-element-f29589a .elementor-blockquote__author{margin-bottom:20px;}.elementor-22130 .elementor-element.elementor-element-f29589a .elementor-blockquote__tweet-button{font-size:calc(1.4px * 10);border-radius:0px;}.elementor-22130 .elementor-element.elementor-element-f29589a .elementor-blockquote:before{color:#9F9F9F;font-size:calc(1px * 100);}.elementor-22130 .elementor-element.elementor-element-f29589a > .elementor-widget-container{margin:2% 0% 1% 0%;padding:3% 6% 2% 6%;border-style:solid;border-width:1px 0px 1px 0px;border-color:#E8E8E8;}.elementor-22130 .elementor-element.elementor-element-4f1c61e .elementor-blockquote__content{font-family:"Open Sans", Sans-serif;font-size:1.4rem;font-weight:600;text-transform:none;font-style:italic;text-decoration:none;line-height:1.6em;margin-top:0px;}.elementor-22130 .elementor-element.elementor-element-4f1c61e .elementor-blockquote__author{margin-bottom:20px;}.elementor-22130 .elementor-element.elementor-element-4f1c61e .elementor-blockquote__tweet-button{font-size:calc(1.4px * 10);border-radius:0px;}.elementor-22130 .elementor-element.elementor-element-4f1c61e .elementor-blockquote:before{color:#9F9F9F;font-size:calc(1px * 100);}.elementor-22130 .elementor-element.elementor-element-4f1c61e > .elementor-widget-container{margin:2% 0% 1% 0%;padding:3% 6% 2% 6%;border-style:solid;border-width:1px 0px 1px 0px;border-color:#E8E8E8;}.elementor-22130 .elementor-element.elementor-element-a31ff1a .elementor-blockquote__content{font-family:"Open Sans", Sans-serif;font-size:1.4rem;font-weight:600;text-transform:none;font-style:italic;text-decoration:none;line-height:1.6em;margin-top:0px;}.elementor-22130 .elementor-element.elementor-element-a31ff1a .elementor-blockquote__author{margin-bottom:20px;}.elementor-22130 .elementor-element.elementor-element-a31ff1a .elementor-blockquote__tweet-button{font-size:calc(1.4px * 10);border-radius:0px;}.elementor-22130 .elementor-element.elementor-element-a31ff1a .elementor-blockquote:before{color:#9F9F9F;font-size:calc(1px * 100);}.elementor-22130 .elementor-element.elementor-element-a31ff1a > .elementor-widget-container{margin:2% 0% 1% 0%;padding:3% 6% 2% 6%;border-style:solid;border-width:1px 0px 1px 0px;border-color:#E8E8E8;}.elementor-22130 .elementor-element.elementor-element-5796c89 > .elementor-widget-container{margin:0% 0% 0% 0%;padding:0px 0px 0px 0px;}@media(max-width:1024px){.elementor-22130 .elementor-element.elementor-element-f29589a .elementor-blockquote__content{font-size:1rem;}.elementor-22130 .elementor-element.elementor-element-f29589a > .elementor-widget-container{padding:5% 6% 2% 6%;}.elementor-22130 .elementor-element.elementor-element-4f1c61e .elementor-blockquote__content{font-size:1rem;}.elementor-22130 .elementor-element.elementor-element-4f1c61e > .elementor-widget-container{padding:5% 6% 2% 6%;}.elementor-22130 .elementor-element.elementor-element-a31ff1a .elementor-blockquote__content{font-size:1rem;}.elementor-22130 .elementor-element.elementor-element-a31ff1a > .elementor-widget-container{padding:5% 6% 2% 6%;}}@media(max-width:767px){.elementor-22130 .elementor-element.elementor-element-f29589a .elementor-blockquote__content{font-size:1rem;}.elementor-22130 .elementor-element.elementor-element-f29589a .elementor-blockquote:before{font-size:calc(0.7px * 100);}.elementor-22130 .elementor-element.elementor-element-f29589a > .elementor-widget-container{margin:2% 0% 2% 0%;padding:10% 0% 5% 0%;}.elementor-22130 .elementor-element.elementor-element-4f1c61e .elementor-blockquote__content{font-size:1rem;}.elementor-22130 .elementor-element.elementor-element-4f1c61e .elementor-blockquote:before{font-size:calc(0.7px * 100);}.elementor-22130 .elementor-element.elementor-element-4f1c61e > .elementor-widget-container{margin:2% 0% 2% 0%;padding:10% 0% 5% 0%;}.elementor-22130 .elementor-element.elementor-element-a31ff1a .elementor-blockquote__content{font-size:1rem;}.elementor-22130 .elementor-element.elementor-element-a31ff1a .elementor-blockquote:before{font-size:calc(0.7px * 100);}.elementor-22130 .elementor-element.elementor-element-a31ff1a > .elementor-widget-container{margin:2% 0% 2% 0%;padding:10% 0% 5% 0%;}}/* Start custom CSS for blockquote, class: .elementor-element-f29589a */.sd_post-details a.elementor-blockquote__tweet-button {text-decoration: none} 
+.elementor-widget-blockquote .elementor-blockquote__tweet-button {margin-top: 40px;} 
+.sd_post-details blockquote:before {margin-top: -35px; padding: 0 10px; width: 70px} 
+
+@media (max-width:1024px) {
+	.sd_post-details blockquote:before {margin-top: -45px;} 
+}
+@media (max-width:767px) {
+	.sd_post-details blockquote:before {margin-top: -30px;} 
+}/* End custom CSS */
+/* Start custom CSS for blockquote, class: .elementor-element-4f1c61e */.sd_post-details a.elementor-blockquote__tweet-button {text-decoration: none} 
+.elementor-widget-blockquote .elementor-blockquote__tweet-button {margin-top: 40px;} 
+.sd_post-details blockquote:before {margin-top: -35px; padding: 0 10px; width: 70px} 
+
+@media (max-width:1024px) {
+	.sd_post-details blockquote:before {margin-top: -45px;} 
+}
+@media (max-width:767px) {
+	.sd_post-details blockquote:before {margin-top: -30px;} 
+}/* End custom CSS */
+/* Start custom CSS for blockquote, class: .elementor-element-a31ff1a */.sd_post-details a.elementor-blockquote__tweet-button {text-decoration: none} 
+.elementor-widget-blockquote .elementor-blockquote__tweet-button {margin-top: 40px;} 
+.sd_post-details blockquote:before {margin-top: -35px; padding: 0 10px; width: 70px} 
+
+@media (max-width:1024px) {
+	.sd_post-details blockquote:before {margin-top: -45px;} 
+}
+@media (max-width:767px) {
+	.sd_post-details blockquote:before {margin-top: -30px;} 
+}/* End custom CSS */
+/* Start custom CSS */div.styledSection {
+    background: #F0E5FF;
+    padding: 0% 5% 3%;
+    line-height: 1.5;
+    margin: 0 auto 5%;
+    border: 3px solid #ffffff;
+    box-shadow: 0px 0px 0px 3px #f0e5ff;
+}
+
+div.styledSection.callOut {
+    border: 2px solid #863BE3;
+    background: none;
+    box-shadow: none;
+}
+
+div.styledSection.callOut p {
+	margin-top: 36px;
+}
+
+.styledSection * {
+	color: #23162C
+}
+
+
+.styledSection li {
+    margin-bottom: 15px;
+}
+
+figcaption.widget-image-caption.wp-caption-text {
+    margin-top: 15px;
+}/* End custom CSS */
