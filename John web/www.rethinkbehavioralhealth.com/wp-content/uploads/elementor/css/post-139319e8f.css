@@ -1,0 +1,14 @@
+.elementor-13931 .elementor-element.elementor-element-744918dc{margin-top:0%;margin-bottom:2%;}.elementor-13931 .elementor-element.elementor-element-c025a88{margin-top:0%;margin-bottom:5%;}.elementor-13931 .elementor-element.elementor-element-92f45cd > .elementor-element-populated{padding:30px 0px 0px 0px;}.elementor-13931 .elementor-element.elementor-element-5943da1 img{width:100%;max-width:280px;}.elementor-13931 .elementor-element.elementor-element-5943da1:not( .elementor-widget-image ) .elementor-widget-container, .elementor-13931 .elementor-element.elementor-element-5943da1.elementor-widget-image .elementor-widget-container img{-webkit-mask-image:url( ../../../plugins/elementor/assets/mask-shapes/circle.svg);-webkit-mask-size:contain;-webkit-mask-position:center center;-webkit-mask-repeat:no-repeat;}.elementor-13931 .elementor-element.elementor-element-aabe7ac > .elementor-element-populated{padding:0px 0px 0px 30px;}@media(min-width:768px){.elementor-13931 .elementor-element.elementor-element-92f45cd{width:31%;}.elementor-13931 .elementor-element.elementor-element-aabe7ac{width:68.666%;}}@media(max-width:1024px){.elementor-13931 .elementor-element.elementor-element-c025a88{margin-top:0%;margin-bottom:5%;}.elementor-13931 .elementor-element.elementor-element-92f45cd > .elementor-element-populated{padding:20px 0px 0px 0px;}}@media(max-width:767px){.elementor-13931 .elementor-element.elementor-element-c025a88{margin-top:0%;margin-bottom:5%;padding:0px 10px 0px 10px;}.elementor-13931 .elementor-element.elementor-element-92f45cd > .elementor-element-populated{margin:0% 0% 0% 0%;--e-column-margin-right:0%;--e-column-margin-left:0%;}.elementor-13931 .elementor-element.elementor-element-5943da1 img{width:100%;max-width:280px;}.elementor-13931 .elementor-element.elementor-element-aabe7ac > .elementor-element-populated{padding:0px 1px 1px 1px;}.elementor-13931 .elementor-element.elementor-element-94ad48c > .elementor-widget-container{padding:0px 0px 0px 0px;}}/* Start custom CSS */.sd_post-details .elementor-section-boxed .elementor-widget-container p img.alignright {
+	padding: 30px;
+}
+
+@media (max-width: 500px) {
+	.sd_post-details .elementor-section-boxed .elementor-widget-container p img.alignright {
+		width: 100%;
+		padding: 15px;
+		float: none;
+		margin: auto;
+		max-width: 230px;
+		display: block;
+	}
+}/* End custom CSS */

@@ -1,0 +1,36 @@
+/* Start custom CSS */#billingQuizForm > div > div > .fc-inline-iframe {
+  box-shadow: none !important;
+}
+
+#billingQuizForm > div > div {
+    max-width: 526px;
+    background: #ebf1f9;
+    padding: 5px;
+    border-radius: 15px;
+    float: none;
+    margin: 0 auto;
+    width: 100%;
+} 
+
+.hsfc-FormWrapper
+form
+div.hsfc-Step:nth-of-type(8)
+div.hsfc-Step__Content
+div.hsfc-Row
+div.hsfc-TextareaField
+textarea.hsfc-TextareaInput {
+	pointer-events: none !important;
+    border: none !important;
+    background: none !important;
+    font-weight: bold !important;
+    resize: none !important;
+}
+
+.hsfc-Form .hsfc-Row .hsfc-TextField label:not(.hs-error-msg), 
+.hsfc-Row .hsfc-TextField label:not(.hs-error-msg) {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  left: -9999px;
+  top: -9999px; 
+}/* End custom CSS */

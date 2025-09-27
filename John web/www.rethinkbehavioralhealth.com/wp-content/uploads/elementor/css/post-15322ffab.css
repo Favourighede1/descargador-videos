@@ -1,0 +1,27 @@
+.elementor-15322 .elementor-element.elementor-element-410a4068{margin-top:0%;margin-bottom:5%;}@media(max-width:1024px) and (min-width:768px){.elementor-15322 .elementor-element.elementor-element-2773d4d9{width:100%;}}@media(max-width:767px){.elementor-15322 .elementor-element.elementor-element-410a4068{padding:0px 0px 0px 0px;}.elementor-15322 .elementor-element.elementor-element-2773d4d9 > .elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-15322 .elementor-element.elementor-element-5fb62720 > .elementor-widget-container{padding:0px 0px 0px 0px;}}/* Start custom CSS for section, class: .elementor-element-410a4068 */#billingQuizForm > div > div > .fc-inline-iframe {
+  box-shadow: none !important;
+}
+
+#billingQuizForm > div > div {
+    max-width: 546px;
+    background: #ebf1f9;
+    padding: 5px;
+    border-radius: 15px;
+    float: none;
+    margin: 0 auto;
+    width: 100%;
+} 
+
+.hsfc-FormWrapper
+form
+div.hsfc-Step:nth-of-type(8)
+div.hsfc-Step__Content
+div.hsfc-Row
+div.hsfc-TextareaField
+textarea.hsfc-TextareaInput {
+	pointer-events: none !important;
+    border: none !important;
+    background: none !important;
+    font-weight: bold !important;
+    resize: none !important;
+}/* End custom CSS */

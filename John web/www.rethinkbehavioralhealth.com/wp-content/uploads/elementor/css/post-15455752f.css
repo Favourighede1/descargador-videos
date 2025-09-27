@@ -1,0 +1,5 @@
+/* Start custom CSS */.elementor-button span .elementor-button-text span {
+    font-weight: normal;
+    font-size: smaller;
+    display: block;
+}/* End custom CSS */

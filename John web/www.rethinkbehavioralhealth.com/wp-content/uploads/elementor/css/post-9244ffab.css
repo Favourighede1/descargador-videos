@@ -1,0 +1,61 @@
+.elementor-9244 .elementor-element.elementor-element-84590bc > .elementor-container{max-width:1300px;}.elementor-9244 .elementor-element.elementor-element-2e21a48 > .elementor-container{max-width:1300px;}.elementor-9244 .elementor-element.elementor-element-2e21a48{padding:0px 0px 0px 0px;}.elementor-9244 .elementor-element.elementor-element-2a819fc > .elementor-widget-container{margin:0px 0px 40px 0px;}@media(max-width:767px){.elementor-9244 .elementor-element.elementor-element-616cf2d > .elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-9244 .elementor-element.elementor-element-dc62192 > .elementor-widget-container{padding:0px 0px 0px 0px;}}@media(min-width:768px){.elementor-9244 .elementor-element.elementor-element-616cf2d{width:100%;}}/* Start custom CSS for template, class: .elementor-element-dc62192 */#formCraftsForm > div > div {
+	    max-width: 526px;
+    background: #ebf1f9;
+    padding: 30px;
+    border-radius: 15px;
+        float: none;
+    margin: 0 auto;
+}/* End custom CSS */
+/* Start custom CSS for html, class: .elementor-element-2a819fc */.sd_post-details #requestADemo .hubSpotForm {
+    max-width: 500px;
+    background: hsl(216deg 54% 95%);
+    padding: 29px;
+    margin: 0 auto;
+}
+
+.hubSpotForm div.legal-consent-container > div:nth-child(2) > div > div > div > ul,
+ul.hs-error-msgs {
+    padding-left: 0px
+}
+
+input.hs-button, .elementor-kit-5 input[type="submit"] {
+    border-radius: 10px;
+}
+
+.hubSpotForm label.hs-error-msg,
+.hubSpotForm .hs_error_rollup > ul > li > label {
+	font-weight: bold;
+	font-style: italic;
+}
+
+.field.hs-form-field,
+.hubSpotForm .hs_error_rollup > ul {
+    margin-bottom: 15px;
+}
+
+.hubSpotForm p {
+font-family: var( --e-global-typography-29c855d-font-family ), Sans-serif;
+    font-size: var( --e-global-typography-29c855d-font-size );
+    font-style: var( --e-global-typography-29c855d-font-style );
+    font-weight: var( --e-global-typography-29c855d-font-weight );
+    margin: 20px auto;
+}
+
+.hubSpotForm .hs_pf__division_owner.hs-pf__division_owner.hs-fieldtype-select.field.hs-form-field {
+    display: none !important 
+}
+
+.hubSpotForm .hs-form-booleancheckbox,
+.hubSpotForm .hs-error-msgs li {
+    list-style: none;
+}
+
+.legal-consent-container, .hs_submit,
+.hubSpotForm .hs_error_rollup > ul {
+    text-align: center
+}
+
+.hubSpotForm.hs-custom-style>div input:not([type=image]):not([type=submit]):not([type=button]):not([type=radio]):not([type=checkbox]):not([type=file]), 
+.hubSpotForm.hs-custom-style fieldset input:not([type=image]):not([type=submit]):not([type=button]):not([type=radio]):not([type=checkbox]):not([type=file]) {
+	padding: 0.5rem 1rem;
+}/* End custom CSS */

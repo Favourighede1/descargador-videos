@@ -1,0 +1,18 @@
+.elementor-9212 .elementor-element.elementor-element-94ea9e6 > .elementor-widget-container{margin:2% 0% 1% 0%;padding:3% 6% 2% 6%;border-style:solid;border-width:1px 0px 1px 0px;border-color:#E8E8E8;}.elementor-9212 .elementor-element.elementor-element-94ea9e6 .elementor-blockquote__content{font-family:"Open Sans", Sans-serif;font-size:1.4rem;font-weight:600;text-transform:none;font-style:italic;text-decoration:none;line-height:1.6em;margin-top:0px;}.elementor-9212 .elementor-element.elementor-element-94ea9e6 .elementor-blockquote__author{margin-bottom:20px;}.elementor-9212 .elementor-element.elementor-element-94ea9e6 .elementor-blockquote__tweet-button{font-size:calc(1.4px * 10);border-radius:0px;}.elementor-9212 .elementor-element.elementor-element-94ea9e6 .elementor-blockquote:before{color:#9F9F9F;font-size:calc(1px * 100);}.elementor-9212 .elementor-element.elementor-element-a63f5e6{margin-top:1%;margin-bottom:0%;padding:0px 0px 0px 0px;}@media(max-width:1024px){.elementor-9212 .elementor-element.elementor-element-94ea9e6 > .elementor-widget-container{padding:5% 6% 2% 6%;}.elementor-9212 .elementor-element.elementor-element-94ea9e6 .elementor-blockquote__content{font-size:1rem;}}@media(max-width:767px){.elementor-9212 .elementor-element.elementor-element-94ea9e6 > .elementor-widget-container{margin:2% 0% 2% 0%;padding:10% 0% 5% 0%;}.elementor-9212 .elementor-element.elementor-element-94ea9e6 .elementor-blockquote__content{font-size:1rem;}.elementor-9212 .elementor-element.elementor-element-94ea9e6 .elementor-blockquote:before{font-size:calc(0.7px * 100);}}/* Start custom CSS for blockquote, class: .elementor-element-94ea9e6 */.sd_post-details a.elementor-blockquote__tweet-button {text-decoration: none} 
+.elementor-widget-blockquote .elementor-blockquote__tweet-button {margin-top: 40px;} 
+.sd_post-details blockquote:before {margin-top: -35px; padding: 0 10px; width: 70px} 
+
+@media (max-width:1024px) {
+	.sd_post-details blockquote:before {margin-top: -45px;} 
+}
+@media (max-width:767px) {
+	.sd_post-details blockquote:before {margin-top: -30px;} 
+}/* End custom CSS */
+/* Start custom CSS for template, class: .elementor-element-1603b80 */#formCraftsForm > div > div {
+	    max-width: 526px;
+    background: #ebf1f9;
+    padding: 30px;
+    border-radius: 15px;
+        float: none;
+    margin: 0 auto;
+}/* End custom CSS */

@@ -1,0 +1,73 @@
+.elementor-9254 .elementor-element.elementor-element-272a390c > .elementor-container{max-width:1200px;}.elementor-9254 .elementor-element.elementor-element-272a390c{margin-top:-48px;margin-bottom:0px;}.elementor-9254 .elementor-element.elementor-element-d6c7a26 > .elementor-element-populated{margin:0px 30px 0px 30px;--e-column-margin-right:30px;--e-column-margin-left:30px;padding:0px 0px 0px 0px;}.elementor-9254 .elementor-element.elementor-element-f409974 > .elementor-container{max-width:1200px;}@media(max-width:767px){.elementor-9254 .elementor-element.elementor-element-d6c7a26 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;}}/* Start custom CSS */.field:not(.hs-fieldtype-select) label:not(.hs-error-msg) {
+    position: absolute;
+    left: -9999px;
+    top: -9999px;
+    height: 1px;
+}
+
+.elementor-location-single .hubSpotForm {
+	background: #edf5ff;
+    padding: 40px;
+    border-radius: 15px
+}
+.hs_bacb__ legend.hs-field-desc {
+    font-size: smaller;
+    line-height: 1.5;
+}
+.elementor-location-single .hbspt-form label {
+    margin-bottom: 5px;
+}
+.elementor-location-single .hbspt-form  .legal-consent-container > div,
+.elementor-location-single .hbspt-form  fieldset > div {
+    margin-bottom: 15px;
+} 
+
+.elementor-location-single div.field.hs-form-field {
+    margin-bottom: 20px;
+}
+.elementor-location-single .hbspt-form fieldset > div,
+.elementor-location-single div.legal-consent-container div.field.hs-form-field {
+    margin-bottom: 0;
+}
+.elementor-location-single .hbspt-form  .legal-consent-container > div {
+    font-size: small
+}
+.elementor-location-single .hbspt-form  .legal-consent-container > div .hs-dependent-field {
+    font-size: initial
+}
+.elementor-location-single .hbspt-form .hs-custom-style fieldset input:not([type=image]):not([type=submit]):not([type=button]):not([type=radio]):not([type=checkbox]):not([type=file]),
+.elementor-location-single .hs-custom-style>div input:not([type=image]):not([type=submit]):not([type=button]):not([type=radio]):not([type=checkbox]):not([type=file]) {
+	padding: 15px;
+}
+.elementor-location-single .hbspt-form .legal-consent-container .hs-form-booleancheckbox span {
+	margin-top: -1.5%
+}
+.elementor-location-single .hbspt-form .legal-consent-container .hs-form-booleancheckbox label {
+		margin-bottom: 0px;
+}
+.elementor-location-single .hbspt-form .hs_submit.hs-submit,
+.sd-post-details .hubSpotForm div.hs_error_rollup > ul,
+.single-resources .hubSpotForm .hs_error_rollup {
+	text-align: center;
+}
+.elementor-location-single .hbspt-form .hs-error-msgs.inputs-list {
+	padding-left: 0;
+	margin-top: 5px;
+}
+.elementor-location-single .hbspt-form .hs-error-msgs.inputs-list,
+.elementor-location-single .hbspt-form  fieldset div ul li,
+.elementor-location-single .hubSpotForm .legal-consent-container li {
+	list-style-type: none
+}
+.elementor-location-single .hbspt-form fieldset div div div div div ul.inputs-list {
+padding-left: 0
+}
+ #section1, #section2, #section3, #section4 {
+	margin-top: -40px;
+	position: absolute;
+ }
+@media (max-width: 767px) {
+ #section1, #section2, #section3, #section4 {
+	margin-top: -60px
+ }
+}/* End custom CSS */

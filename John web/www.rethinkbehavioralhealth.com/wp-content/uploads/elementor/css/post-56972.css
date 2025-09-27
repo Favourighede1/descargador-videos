@@ -1,0 +1,287 @@
+.elementor-kit-5{--e-global-color-primary:#386DBD;--e-global-color-secondary:#8FB3E9;--e-global-color-text:#CCE1FF;--e-global-color-accent:#EEF5FF;--e-global-color-9a20dd1:#F8FAFF;--e-global-color-199ead0b:#9F9F9F;--e-global-color-7df8ece3:#E8E8E8;--e-global-color-ce389d1:#FBAB30;--e-global-color-34e0d25:#FCBC59;--e-global-color-c48c58f:#FDCD83;--e-global-color-7d51291:#FEDDAC;--e-global-color-76763b9:#FFF7EA;--e-global-color-c8719f8:#FFFBF5;--e-global-color-d7be9cd:#8F37FF;--e-global-color-dc9b118:#A65FFF;--e-global-color-11612c3:#BC87FF;--e-global-color-235c95d:#D2AFFF;--e-global-color-c12d67e:#F4EBFF;--e-global-color-bec72ab:#F9F5FF;--e-global-color-67a0d83:#00BBDE;--e-global-color-af880ee:#33C9E5;--e-global-color-3405b1f:#66D6EB;--e-global-color-cec7e0a:#99E4F2;--e-global-color-4a45c16:#E5F8FC;--e-global-color-d320c2a:#F2FCFD;--e-global-color-46b08c7:#101010;--e-global-color-d3652da:#FFFFFF;--e-global-color-dc10a8f:#5C5C5C;--e-global-color-db740e5:#608ACA;--e-global-color-0327f33:#9BB6DE;--e-global-typography-primary-font-family:"Open Sans";--e-global-typography-primary-font-size:3.4rem;--e-global-typography-primary-font-weight:700;--e-global-typography-primary-text-transform:none;--e-global-typography-primary-font-style:normal;--e-global-typography-primary-text-decoration:none;--e-global-typography-primary-line-height:1.3em;--e-global-typography-primary-letter-spacing:-1.25px;--e-global-typography-secondary-font-family:"Open Sans";--e-global-typography-secondary-font-size:2.488rem;--e-global-typography-secondary-font-weight:400;--e-global-typography-secondary-text-transform:none;--e-global-typography-secondary-font-style:normal;--e-global-typography-secondary-text-decoration:none;--e-global-typography-secondary-line-height:1.3em;--e-global-typography-text-font-family:"Open Sans";--e-global-typography-text-font-size:2.074rem;--e-global-typography-text-font-weight:400;--e-global-typography-text-text-transform:none;--e-global-typography-text-font-style:normal;--e-global-typography-text-text-decoration:none;--e-global-typography-text-line-height:1.3em;--e-global-typography-accent-font-family:"Open Sans";--e-global-typography-accent-font-size:1.728rem;--e-global-typography-accent-font-weight:400;--e-global-typography-accent-text-transform:none;--e-global-typography-accent-font-style:normal;--e-global-typography-accent-text-decoration:none;--e-global-typography-accent-line-height:1.4em;--e-global-typography-e40ca52-font-family:"Open Sans";--e-global-typography-e40ca52-font-size:1.44rem;--e-global-typography-e40ca52-font-weight:600;--e-global-typography-e40ca52-text-transform:none;--e-global-typography-e40ca52-font-style:normal;--e-global-typography-e40ca52-text-decoration:none;--e-global-typography-e40ca52-line-height:1.6em;--e-global-typography-159609b-font-family:"Open Sans";--e-global-typography-159609b-font-size:1.2rem;--e-global-typography-159609b-font-weight:400;--e-global-typography-159609b-text-transform:none;--e-global-typography-159609b-font-style:normal;--e-global-typography-159609b-text-decoration:none;--e-global-typography-159609b-line-height:1.6em;--e-global-typography-0f7ce38-font-family:"Open Sans";--e-global-typography-0f7ce38-font-size:1.125rem;--e-global-typography-0f7ce38-font-weight:400;--e-global-typography-0f7ce38-text-transform:none;--e-global-typography-0f7ce38-font-style:normal;--e-global-typography-0f7ce38-text-decoration:none;--e-global-typography-0f7ce38-line-height:1.75em;--e-global-typography-29c855d-font-family:"Open Sans";--e-global-typography-29c855d-font-size:0.925rem;--e-global-typography-29c855d-font-weight:400;--e-global-typography-29c855d-text-transform:none;--e-global-typography-29c855d-font-style:normal;--e-global-typography-29c855d-text-decoration:none;--e-global-typography-29c855d-line-height:1.75em;--e-global-typography-b182f3f-font-family:"Open Sans";--e-global-typography-b182f3f-font-size:1.0625rem;--e-global-typography-b182f3f-font-weight:700;--e-global-typography-b182f3f-text-transform:none;--e-global-typography-b182f3f-font-style:normal;--e-global-typography-b182f3f-text-decoration:none;--e-global-typography-b182f3f-line-height:1.17em;--e-global-typography-672e36a-font-family:"Open Sans";--e-global-typography-672e36a-font-size:0.9375rem;--e-global-typography-672e36a-font-weight:600;--e-global-typography-672e36a-text-transform:none;--e-global-typography-672e36a-font-style:normal;--e-global-typography-672e36a-text-decoration:none;--e-global-typography-672e36a-line-height:1.75em;--e-global-typography-404f8ff-font-family:"Open Sans";--e-global-typography-404f8ff-font-size:1.44rem;--e-global-typography-404f8ff-font-weight:400;--e-global-typography-404f8ff-text-transform:none;--e-global-typography-404f8ff-font-style:normal;--e-global-typography-404f8ff-text-decoration:none;--e-global-typography-404f8ff-line-height:1.6em;color:var( --e-global-color-dc10a8f );font-family:var( --e-global-typography-0f7ce38-font-family ), Sans-serif;font-size:var( --e-global-typography-0f7ce38-font-size );font-weight:var( --e-global-typography-0f7ce38-font-weight );text-transform:var( --e-global-typography-0f7ce38-text-transform );font-style:var( --e-global-typography-0f7ce38-font-style );text-decoration:var( --e-global-typography-0f7ce38-text-decoration );line-height:var( --e-global-typography-0f7ce38-line-height );}.elementor-kit-5 button,.elementor-kit-5 input[type="button"],.elementor-kit-5 input[type="submit"],.elementor-kit-5 .elementor-button{background-color:var( --e-global-color-d7be9cd );font-family:var( --e-global-typography-b182f3f-font-family ), Sans-serif;font-size:var( --e-global-typography-b182f3f-font-size );font-weight:var( --e-global-typography-b182f3f-font-weight );text-transform:var( --e-global-typography-b182f3f-text-transform );font-style:var( --e-global-typography-b182f3f-font-style );text-decoration:var( --e-global-typography-b182f3f-text-decoration );line-height:var( --e-global-typography-b182f3f-line-height );color:var( --e-global-color-d3652da );border-style:solid;border-width:1px 1px 1px 1px;border-color:var( --e-global-color-d7be9cd );border-radius:8px 8px 8px 8px;padding:15px 30px 15px 30px;}.elementor-kit-5 button:hover,.elementor-kit-5 button:focus,.elementor-kit-5 input[type="button"]:hover,.elementor-kit-5 input[type="button"]:focus,.elementor-kit-5 input[type="submit"]:hover,.elementor-kit-5 input[type="submit"]:focus,.elementor-kit-5 .elementor-button:hover,.elementor-kit-5 .elementor-button:focus{background-color:var( --e-global-color-d3652da );color:var( --e-global-color-primary );border-style:solid;border-color:var( --e-global-color-primary );}.elementor-kit-5 e-page-transition{background-color:#FFBC7D;}.elementor-kit-5 a{color:var( --e-global-color-primary );}.elementor-kit-5 h1{color:var( --e-global-color-46b08c7 );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );text-transform:var( --e-global-typography-primary-text-transform );font-style:var( --e-global-typography-primary-font-style );text-decoration:var( --e-global-typography-primary-text-decoration );line-height:var( --e-global-typography-primary-line-height );letter-spacing:var( --e-global-typography-primary-letter-spacing );}.elementor-kit-5 h2{color:var( --e-global-color-46b08c7 );font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-size:var( --e-global-typography-secondary-font-size );font-weight:var( --e-global-typography-secondary-font-weight );text-transform:var( --e-global-typography-secondary-text-transform );font-style:var( --e-global-typography-secondary-font-style );text-decoration:var( --e-global-typography-secondary-text-decoration );line-height:var( --e-global-typography-secondary-line-height );}.elementor-kit-5 h3{color:var( --e-global-color-46b08c7 );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );text-transform:var( --e-global-typography-text-text-transform );font-style:var( --e-global-typography-text-font-style );text-decoration:var( --e-global-typography-text-text-decoration );line-height:var( --e-global-typography-text-line-height );}.elementor-kit-5 h4{color:var( --e-global-color-46b08c7 );font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );text-transform:var( --e-global-typography-accent-text-transform );font-style:var( --e-global-typography-accent-font-style );text-decoration:var( --e-global-typography-accent-text-decoration );line-height:var( --e-global-typography-accent-line-height );}.elementor-kit-5 h5{color:var( --e-global-color-46b08c7 );font-family:var( --e-global-typography-e40ca52-font-family ), Sans-serif;font-size:var( --e-global-typography-e40ca52-font-size );font-weight:var( --e-global-typography-e40ca52-font-weight );text-transform:var( --e-global-typography-e40ca52-text-transform );font-style:var( --e-global-typography-e40ca52-font-style );text-decoration:var( --e-global-typography-e40ca52-text-decoration );line-height:var( --e-global-typography-e40ca52-line-height );}.elementor-kit-5 h6{color:var( --e-global-color-46b08c7 );font-family:var( --e-global-typography-159609b-font-family ), Sans-serif;font-size:var( --e-global-typography-159609b-font-size );font-weight:var( --e-global-typography-159609b-font-weight );text-transform:var( --e-global-typography-159609b-text-transform );font-style:var( --e-global-typography-159609b-font-style );text-decoration:var( --e-global-typography-159609b-text-decoration );line-height:var( --e-global-typography-159609b-line-height );}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.e-con{--container-max-width:1140px;}.elementor-widget:not(:last-child){margin-block-end:20px;}.elementor-element{--widgets-spacing:20px 20px;--widgets-spacing-row:20px;--widgets-spacing-column:20px;}{}h1.entry-title{display:var(--page-title-display);}@media(max-width:1024px){.elementor-kit-5{--e-global-typography-primary-font-size:2.488rem;--e-global-typography-secondary-font-size:2.074rem;--e-global-typography-text-font-size:1.728rem;--e-global-typography-accent-font-size:1.44rem;--e-global-typography-e40ca52-font-size:1.2rem;--e-global-typography-159609b-font-size:1rem;--e-global-typography-0f7ce38-font-size:1rem;--e-global-typography-b182f3f-font-size:0.825rem;--e-global-typography-672e36a-font-size:0.825rem;--e-global-typography-404f8ff-font-size:1.2rem;font-size:var( --e-global-typography-0f7ce38-font-size );line-height:var( --e-global-typography-0f7ce38-line-height );}.elementor-kit-5 h1{font-size:var( --e-global-typography-primary-font-size );line-height:var( --e-global-typography-primary-line-height );letter-spacing:var( --e-global-typography-primary-letter-spacing );}.elementor-kit-5 h2{font-size:var( --e-global-typography-secondary-font-size );line-height:var( --e-global-typography-secondary-line-height );}.elementor-kit-5 h3{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );}.elementor-kit-5 h4{font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );}.elementor-kit-5 h5{font-size:var( --e-global-typography-e40ca52-font-size );line-height:var( --e-global-typography-e40ca52-line-height );}.elementor-kit-5 h6{font-size:var( --e-global-typography-159609b-font-size );line-height:var( --e-global-typography-159609b-line-height );}.elementor-kit-5 button,.elementor-kit-5 input[type="button"],.elementor-kit-5 input[type="submit"],.elementor-kit-5 .elementor-button{font-size:var( --e-global-typography-b182f3f-font-size );line-height:var( --e-global-typography-b182f3f-line-height );}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-kit-5{--e-global-typography-primary-font-size:2.074rem;--e-global-typography-secondary-font-size:1.728rem;--e-global-typography-text-font-size:1.44rem;--e-global-typography-accent-font-size:1.2rem;--e-global-typography-e40ca52-font-size:1rem;--e-global-typography-159609b-font-size:1rem;--e-global-typography-0f7ce38-font-size:1rem;--e-global-typography-404f8ff-font-size:1rem;font-size:var( --e-global-typography-0f7ce38-font-size );line-height:var( --e-global-typography-0f7ce38-line-height );}.elementor-kit-5 h1{font-size:var( --e-global-typography-primary-font-size );line-height:var( --e-global-typography-primary-line-height );letter-spacing:var( --e-global-typography-primary-letter-spacing );}.elementor-kit-5 h2{font-size:var( --e-global-typography-secondary-font-size );line-height:var( --e-global-typography-secondary-line-height );}.elementor-kit-5 h3{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );}.elementor-kit-5 h4{font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );}.elementor-kit-5 h5{font-size:var( --e-global-typography-e40ca52-font-size );line-height:var( --e-global-typography-e40ca52-line-height );}.elementor-kit-5 h6{font-size:var( --e-global-typography-159609b-font-size );line-height:var( --e-global-typography-159609b-line-height );}.elementor-kit-5 button,.elementor-kit-5 input[type="button"],.elementor-kit-5 input[type="submit"],.elementor-kit-5 .elementor-button{font-size:var( --e-global-typography-b182f3f-font-size );line-height:var( --e-global-typography-b182f3f-line-height );}.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start custom CSS *//* START Elementor > Site Settings > Custom CSS
+
+ADD CUSTOM CSS HERE https://git.soliddigital.com/rethink/www.rethinkbehavioralhealth.com/-/blob/develop/wp-content/themes/elementor-child-theme/style.css*/
+
+
+/*---------------- HubSpot CTAs and Popups ------------------*/
+
+#hs-web-interactives-top-anchor {
+    z-index: 9999999999;
+}
+
+.hs-form.hs-form_theme-canvas label:not(.hs-error-msg),
+.hubSpotForm fieldset .field:not(.hs-fieldtype-select ) label:not(.hs-error-msg) {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+    height: 1px;
+}
+
+.hs-form.hs-form_theme-canvas .hs-form__row {
+    margin-bottom: 9px;
+}
+
+.hs-form.hs-form_theme-canvas div.hs-form__legal-consent__row.hs-form__legal-consent__row__privacy-policy > div > p {
+	line-height: 1.5
+}
+
+#interactive-close-button-container {
+	padding-top: 3px !important;
+    padding-right: 2px !important;
+}
+
+@media (min-width: 767px) {
+    .hs-cta-embed__loaded {
+        margin-left: 70px !important;
+    }
+    #hs-web-interactives-top-anchor {
+        width: 98% !important
+    }
+}
+
+/*---------------- Pages only ------------------*/
+
+.page .elementor-widget-toggle .elementor-toggle-item .elementor-tab-title a.elementor-toggle-title {
+	color: #4d4d4d;
+}
+
+.page .elementor-widget-toggle .elementor-toggle-item .elementor-tab-content > p > a,
+.elementor-section-boxed .elementor-widget-text-editor .elementor-widget-container p a,
+ .elementor-widget-toggle .elementor-toggle-item .elementor-tab-title .elementor-toggle-icon .fas,
+.page .elementor-widget-toggle .elementor-toggle-item .elementor-tab-title a.elementor-toggle-title:hover {
+	color: #8f37ff;
+}
+
+.page .elementor-widget-toggle .elementor-toggle-item .elementor-tab-content > p > a,
+.elementor-section-boxed .elementor-widget-text-editor .elementor-widget-container p a,
+.page .elementor-widget-toggle .elementor-toggle-item .elementor-tab-content ul li a, 
+.page .elementor-widget-toggle .elementor-toggle-item .elementor-tab-content ol li a,
+.elementor-section-boxed .elementor-widget-text-editor .elementor-widget-container ul li a,
+.elementor-section-boxed .elementor-widget-text-editor .elementor-widget-container ol li a {
+	text-decoration: underline;
+}
+
+.page .elementor-widget-toggle .elementor-toggle-item .elementor-tab-content > p > a:hover,
+.elementor-section-boxed .elementor-widget-text-editor .elementor-widget-container p a:hover,
+.page .elementor-widget-toggle .elementor-toggle-item .elementor-tab-content ul li a:hover, 
+.page .elementor-widget-toggle .elementor-toggle-item .elementor-tab-content ol li a:hover,
+.elementor-section-boxed .elementor-widget-text-editor .elementor-widget-container ul li a:hover,
+.elementor-section-boxed .elementor-widget-text-editor .elementor-widget-container ol li a:hover {
+	text-decoration: none;
+}
+
+.elementor-location-single.page ol,
+.elementor-location-single.page ul {
+    margin-top: 0;
+    margin-bottom: 0.9rem;
+}
+
+@media only screen and (min-width: 1024px) {
+  #sd_slider .elementor-element.elementor-element-7cd3da3 .jet-carousel .jet-slick-dots {
+    justify-content: center;
+    margin: -140px 0% 0% 90px;
+  }
+}
+
+/*----------------
+Hero sections so that Accessibility icon doesn't cover text, requires the heroSection ID to be added per page
+------------------*/
+@media (min-width: 768px) and (max-width: 1500px) {
+	#heroSection .elementor-container.elementor-column-gap-default {
+		padding-left: 30px;
+	}
+}
+
+/*----------------
+Mobile menu For Providers active pages
+------------------*/
+.page-id-8462 .jet-mobile-menu li.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-8510,
+.page-id-8448 .jet-mobile-menu li.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-8511,
+.page-id-8463 .jet-mobile-menu li.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-8509,
+.page-id-1252 .jet-mobile-menu li.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-8517,
+.page-id-8479 .jet-mobile-menu li.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-8516,
+.page-id-8485 .jet-mobile-menu li.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-8515,
+.page-id-8486 .jet-mobile-menu li.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-8514,
+.page-id-10760 .jet-mobile-menu li.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-10786,
+.page-id-10766 .jet-mobile-menu li.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-10785 {
+    background: #5683c7;
+	padding-left: 5px;
+}
+.elementor-element-a4e15bb li {
+    padding-left: 5px;
+}
+
+
+/*----------------
+Footer highlight text background color
+------------------*/
+.elementor-location-footer p::-moz-selection { 
+    background: rgb(255 255 255 / 0.5) !important
+}
+
+.elementor-location-footer p::selection {
+    background: rgb(255 255 255 / 0.5) !important
+}
+
+
+/*----------------
+Fix Lightbox buttons not showing on iPhone
+------------------*/
+.eicon-share-arrow, .eicon-zoom-in-bold, .eicon-zoom-out-bold, .eicon-frame-expand, .dialog-close-button.dialog-lightbox-close-button {
+    background: rgb(0 0 0 / 50%);
+}
+
+
+/*----------------
+Cookie banner
+------------------*/
+
+.wcc-modal.wcc-modal-open .wcc-switch input[type="checkbox"] {
+    background-color: #C11F1F !important;
+}
+
+.wcc-modal.wcc-modal-open .wcc-switch input[type="checkbox"]:checked {
+    background-color: #2E761E !important;
+}
+
+.wcc-consent-container.wcc-banner-bottom {
+    padding: 1% 5% 50px !important;
+    background: #e8e8e8;
+    box-shadow: 0px 2px 14px gray;
+	z-index: 9999999999 !important;
+}
+
+.wcc-consent-container.wcc-banner-bottom .wcc-consent-bar button {
+    font-size: 14px
+}
+
+.wcc-consent-container.wcc-banner-bottom .wcc-consent-bar {
+    border: none;
+    box-shadow: none;
+}
+
+div.wcc-accordion-item > div.wcc-accordion-header-wrapper > div.wcc-accordion-header > button,
+.wcc-btn.wcc-btn-customize {
+       color: black  !important;
+}
+
+.wcc-accordion > div.wcc-accordion-item > div.wcc-accordion-header-wrapper > div.wcc-accordion-header > button:hover,
+.wcc-accordion > div.wcc-accordion-item > div.wcc-accordion-header-wrapper > div.wcc-accordion-header > button:focus,
+.wcc-accordion > div.wcc-accordion-item > div.wcc-accordion-header-wrapper > div.wcc-accordion-header > button:active,
+.wcc-btn-revisit-wrapper.wcc-revisit-bottom-left .wcc-btn-revisit:hover {
+    border: none;
+	background: none;
+	background-color: none;
+}
+
+.wcc-accordion > div.wcc-accordion-item > div.wcc-accordion-header-wrapper > div.wcc-accordion-header > button:hover,
+.wcc-accordion > div.wcc-accordion-item > div.wcc-accordion-header-wrapper > div.wcc-accordion-header > button:focus,
+.wcc-accordion > div.wcc-accordion-item > div.wcc-accordion-header-wrapper > div.wcc-accordion-header > button:active,
+.wcc-btn.wcc-btn-customize:hover {
+    color: #5E5E5E !important;    
+}
+
+.wcc-accordion > div.wcc-accordion-item > div.wcc-accordion-header-wrapper > div.wcc-accordion-header > button:focus,
+.wcc-accordion > div.wcc-accordion-item > div.wcc-accordion-header-wrapper > div.wcc-accordion-header > button:active {
+    text-decoration: underline;
+}
+
+body > div.wcc-modal.wcc-modal-open > div > div.wcc-preference-header > button,
+body > div.wcc-modal.wcc-modal-open > div > div.wcc-preference-header > button:hover {
+    background: white;
+    border-radius: 999px;
+    padding: 5px;
+}
+
+body > div.wcc-modal.wcc-modal-open > div > div.wcc-preference-header > button:hover {
+    border: 1px solid black;
+}
+
+body .wcc-accordion-wrapper {
+    margin-bottom: 30px;
+}
+
+.wcc-btn-revisit-wrapper.wcc-revisit-bottom-left {
+    left: 20px;
+    bottom: 85px;
+}
+
+.wcc-btn-revisit-wrapper {
+	z-index: 9998 !important;
+}
+
+@media (max-width: 1023px) {
+    .wcc-btn-revisit-wrapper.wcc-revisit-bottom-left {
+        left: 10px;
+        bottom: 75px;
+    }
+}
+
+@media (min-width: 986px) and (max-width:1087px) {
+    .wcc-consent-container.wcc-banner-bottom .cli-bar-message {
+        width: 60%;
+    }
+    .wcc-consent-container.wcc-banner-bottom .cli-bar-btn_container {
+        width: 40%;
+    }
+}
+
+@media (max-width: 767px) {
+    .wcc-btn-revisit-wrapper {
+        z-index: 999 !important;
+    }
+    .wcc-preference-body-wrapper {
+        padding-bottom: 8px !important;
+    }
+    .wcc-consent-container.wcc-banner-bottom {
+        padding: 1% 5% 50px !important;
+    }
+    .wcc-consent-container.wcc-banner-bottom .cli-bar-btn_container {
+        position: absolute;
+        bottom: 30px;
+        right: 25%;
+        width: 50%
+    }
+    .wcc-modal.wcc-modal-open .wcc-preference-center {
+        padding-top: 80px;
+        padding-bottom: 50px;
+    }
+    .wcc-consent-container.wcc-banner-bottom .cli-bar-message, 
+    #wt-cli-cookie-banner-title,
+    .wcc-notice-des *, 
+    .wcc-preference-content-wrapper *, 
+    .wcc-accordion-header-des *, 
+    .wcc-gpc-wrapper .wcc-gpc-desc *,
+    .wcc-accordion.wcc-accordion-active > div.wcc-accordion-body > div > ul > li:nth-child(3) > div:nth-child(2)  {
+        font-size: 12px !important;
+        line-height: 1.5;
+    }
+    #wt-cli-accept-all-btn, 
+    #wt-cli-reject-btn {
+        margin: 5px 5px 5px 5px !important;
+    }
+    #wt-cli-cookie-banner-title {
+        width: 32%;
+    }
+}
+
+@media (max-width: 460px) {
+    .wcc-consent-container.wcc-banner-bottom .cli-bar-btn_container {
+        top: 5px;
+        right: 0;
+        width: auto;
+        bottom: auto;
+    }
+}
+
+
+/*----------------
+Remove space above video embeds when cookies are not accepted
+------------------*/
+#videoDivHolder .wt-cli-iframe-placeholder { margin-top: -56.25%; }
+
+
+/*  Make featured image in related Resources lists full width */
+#relatedPostListingItem .elementor-container .elementor-column .sd_full-width-link div a {
+	width: 100%
+}/* End custom CSS */
